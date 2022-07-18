@@ -35,5 +35,5 @@ The project is using the SQLAlchemy Python library to generate the database.
 - What properties should go inside the user? or inside the Post table?
 - Please add at least 4 models with all of its properties.
 - Degenerate the diagram.png file at the end by running `$ python3 models.py` on the console.
-
+- Diagram Link: https://app.quickdatabasediagrams.com/#/d/yj1oTB
 
